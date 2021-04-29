@@ -234,3 +234,5 @@ cython_debug/
 
 Архив/
 /venv/
+
+*.html
