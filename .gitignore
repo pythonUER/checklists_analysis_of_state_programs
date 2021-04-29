@@ -236,3 +236,5 @@ cython_debug/
 /venv/
 
 *.html
+
+*.rar
